@@ -29,5 +29,7 @@ namespace WhatsOnSale.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<WhatsOnSale.Product> Products { get; set; }
     }
 }

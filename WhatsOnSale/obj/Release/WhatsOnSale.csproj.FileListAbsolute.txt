@@ -64,8 +64,5 @@ C:\Users\Bill\documents\visual studio 2015\Projects\WhatsOnSale\WhatsOnSale\bin\
 C:\Users\Bill\documents\visual studio 2015\Projects\WhatsOnSale\WhatsOnSale\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Bill\documents\visual studio 2015\Projects\WhatsOnSale\WhatsOnSale\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Bill\documents\visual studio 2015\Projects\WhatsOnSale\WhatsOnSale\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Bill\documents\visual studio 2015\Projects\WhatsOnSale\WhatsOnSale\obj\Debug\WhatsOnSale.csprojResolveAssemblyReference.cache
-C:\Users\Bill\documents\visual studio 2015\Projects\WhatsOnSale\WhatsOnSale\obj\Debug\WhatsOnSale.dll
-C:\Users\Bill\documents\visual studio 2015\Projects\WhatsOnSale\WhatsOnSale\obj\Debug\WhatsOnSale.pdb
-C:\Users\Bill\documents\visual studio 2015\Projects\WhatsOnSale\WhatsOnSale\obj\Debug\WhatsOnSale.Migrations.Initial.resources
-C:\Users\Bill\documents\visual studio 2015\Projects\WhatsOnSale\WhatsOnSale\obj\Debug\WhatsOnSale.csproj.GenerateResource.Cache
+C:\Users\Bill\documents\visual studio 2015\Projects\WhatsOnSale\WhatsOnSale\obj\Release\WhatsOnSale.dll
+C:\Users\Bill\documents\visual studio 2015\Projects\WhatsOnSale\WhatsOnSale\obj\Release\WhatsOnSale.pdb
